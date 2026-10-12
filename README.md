@@ -1,5 +1,8 @@
 # PS5 DevLoop
 
+[![stars](https://img.shields.io/github/stars/griches/PS5_DevLoop?style=flat)](https://github.com/griches/PS5_DevLoop/stargazers)
+[![licence](https://img.shields.io/badge/licence-GPL--3.0-blue)](LICENSE)
+
 **Let an AI agent, or a script, drive a jailbroken PS5 by itself: press buttons,
 see the screen, repeat.**
 
